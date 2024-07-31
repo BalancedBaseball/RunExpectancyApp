@@ -417,6 +417,8 @@ with ui.nav_panel("Tutorial Videos and About"):
 
             ui.div("Investigating Basic Baseball Questions with Run Expectancy in Python")
 
+            ui.div(ui.HTML("GitHub code: <a href='https://github.com/BalancedBaseball/RunExpectancyApp'> https://github.com/BalancedBaseball/RunExpectancyApp</a>"))
+
 with ui.nav_panel("Further Reading/Learning"):
     with ui.layout_columns(col_widths=(-2, 8, -2)):
         with ui.card():
