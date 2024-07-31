@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\kobyl\\Desktop\\Baseball Data Analysis\\My Projects\\GoombaStuff\\RE24\\App Necessities",
+        "app_url": "https://balancedbaseball.shinyapps.io/runexpectancyapp/",
+        "app_id": 12374001,
+        "app_guid": null,
+        "title": "runexpectancyapp",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
